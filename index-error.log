@@ -1,0 +1,2562 @@
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/264889891039608874/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/589837814393470986/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Unknown Message
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Unknown Message',
+  path:
+   '/api/v7/channels/565543493359894548/messages/607875532184616960/reactions/%E2%9C%85/@me',
+  code: 10008,
+  method: 'PUT' }
+{ DiscordAPIError: Unknown Message
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Unknown Message',
+  path:
+   '/api/v7/channels/565543493359894548/messages/607875584978059265/reactions/%E2%9C%85/@me',
+  code: 10008,
+  method: 'PUT' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/264889891039608874/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/264889891039608874/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/264889891039608874/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/264889891039608874/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/264889891039608874/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Unknown Message
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Unknown Message',
+  path:
+   '/api/v7/channels/565543493359894548/messages/608304892825829424/reactions/%E2%9C%85/@me',
+  code: 10008,
+  method: 'PUT' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/607078020917886988/messages',
+  code: 50013,
+  method: 'POST' }
+TypeError: Cannot read property 'hasPermission' of undefined
+    at Client.bot.on (/root/bot/index.js:118:24)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/610956202737926166/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/610956202737926166/messages',
+  code: 50013,
+  method: 'POST' }
+{ MongoNetworkError: connection 0 to cluster0-shard-00-00-l8zgw.mongodb.net:27017 closed
+    at TLSSocket.<anonymous> (/root/bot/node_modules/mongodb-core/lib/connection/connection.js:352:9)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:193:13)
+    at _handle.close (net.js:614:12)
+    at TCP.done (_tls_wrap.js:436:7)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+{ MongoNetworkError: connection 3 to cluster0-shard-00-00-l8zgw.mongodb.net:27017 closed
+    at TLSSocket.<anonymous> (/root/bot/node_modules/mongodb-core/lib/connection/connection.js:352:9)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:193:13)
+    at _handle.close (net.js:614:12)
+    at TCP.done (_tls_wrap.js:436:7)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+{ MongoNetworkError: connection 6 to cluster0-shard-00-00-l8zgw.mongodb.net:27017 closed
+    at TLSSocket.<anonymous> (/root/bot/node_modules/mongodb-core/lib/connection/connection.js:352:9)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:193:13)
+    at _handle.close (net.js:614:12)
+    at TCP.done (_tls_wrap.js:436:7)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+{ MongoNetworkError: connection 5 to cluster0-shard-00-00-l8zgw.mongodb.net:27017 closed
+    at TLSSocket.<anonymous> (/root/bot/node_modules/mongodb-core/lib/connection/connection.js:352:9)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:193:13)
+    at _handle.close (net.js:614:12)
+    at TCP.done (_tls_wrap.js:436:7)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+{ MongoNetworkError: connection 4 to cluster0-shard-00-00-l8zgw.mongodb.net:27017 closed
+    at TLSSocket.<anonymous> (/root/bot/node_modules/mongodb-core/lib/connection/connection.js:352:9)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:193:13)
+    at _handle.close (net.js:614:12)
+    at TCP.done (_tls_wrap.js:436:7)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+{ DiscordAPIError: Missing Access
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Access',
+  path:
+   '/api/v7/channels/596681389399867392/messages/611581690590003200/reactions/%E2%9C%85/@me',
+  code: 50001,
+  method: 'PUT' }
+{ DiscordAPIError: Missing Access
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Access',
+  path: '/api/v7/channels/596681389399867392/messages',
+  code: 50001,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/264445053596991498/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path:
+   '/api/v7/channels/264445053596991498/messages/612559646506352642/reactions/%E2%9C%85/@me',
+  code: 50013,
+  method: 'PUT' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/612999705995116575/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/612999705995116575/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/612999705995116575/messages',
+  code: 50013,
+  method: 'POST' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path:
+   '/api/v7/channels/264445053596991498/messages/614191143445463061/reactions/%E2%9C%85/@me',
+  code: 50013,
+  method: 'PUT' }
+{ DiscordAPIError: Missing Permissions
+    at item.request.gen.end (/root/bot/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js:85:15)
+    at then (/root/bot/node_modules/snekfetch/src/index.js:215:21)
+    at processTicksAndRejections (internal/process/task_queues.js:86:5)
+  name: 'DiscordAPIError',
+  message: 'Missing Permissions',
+  path: '/api/v7/channels/264445053596991498/messages',
+  code: 50013,
+  method: 'POST' }
+{ Error: Client network socket disconnected before secure TLS connection was established
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1284:19)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:198:15)
+    at endReadableNT (_stream_readable.js:1139:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:17)
+  code: 'ECONNRESET',
+  path: null,
+  host: 'discordapp.com',
+  port: 443,
+  localAddress: undefined,
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] { abort: [Function], response: [Function] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     outputData: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 75,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        write: [Function: writeAfterFIN],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 98349860,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 430,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     connection:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        write: [Function: writeAfterFIN],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 98349860,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 430,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     _header:
+      'PATCH /api/v7/channels/608305680746545174 HTTP/1.1\r\nHost: discordapp.com\r\nAuthorization: Bot NTg3NjI3ODA4NTIwNjY3MTQ2.XTHXQA.ZDtOsU6jj_PkxTaf6yYm2fqrmwU\r\nUser-Agent: DiscordBot (https://github.com/discordjs/discord.js, 11.5.1) Node.js/v11.15.0\r\nContent-Type: application/json\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nContent-Length: 75\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'PATCH',
+     path: '/api/v7/channels/608305680746545174',
+     _ended: false,
+     res: null,
+     aborted: false,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] {
+        host: [Array],
+        authorization: [Array],
+        'user-agent': [Array],
+        'content-type': [Array],
+        'accept-encoding': [Array] } } }
+{ Error: read ECONNRESET
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:171:27)
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read',
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] { abort: [Function], response: [Function] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     outputData: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 75,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 98352408,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 430,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     connection:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 98352408,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 430,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     _header:
+      'PATCH /api/v7/channels/608305680746545174 HTTP/1.1\r\nHost: discordapp.com\r\nAuthorization: Bot NTg3NjI3ODA4NTIwNjY3MTQ2.XTHXQA.ZDtOsU6jj_PkxTaf6yYm2fqrmwU\r\nUser-Agent: DiscordBot (https://github.com/discordjs/discord.js, 11.5.1) Node.js/v11.15.0\r\nContent-Type: application/json\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nContent-Length: 75\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'PATCH',
+     path: '/api/v7/channels/608305680746545174',
+     _ended: false,
+     res: null,
+     aborted: false,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] {
+        host: [Array],
+        authorization: [Array],
+        'user-agent': [Array],
+        'content-type': [Array],
+        'accept-encoding': [Array] } } }
+{ Error: Client network socket disconnected before secure TLS connection was established
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1284:19)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:198:15)
+    at endReadableNT (_stream_readable.js:1139:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:17)
+  code: 'ECONNRESET',
+  path: null,
+  host: 'discordapp.com',
+  port: 443,
+  localAddress: undefined,
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] { abort: [Function], response: [Function] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     outputData: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 69,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        write: [Function: writeAfterFIN],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 98550794,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 424,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 424,
+        [Symbol(connect-options)]: [Object] },
+     connection:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        write: [Function: writeAfterFIN],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 98550794,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 424,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 424,
+        [Symbol(connect-options)]: [Object] },
+     _header:
+      'PATCH /api/v7/channels/608305993457205271 HTTP/1.1\r\nHost: discordapp.com\r\nAuthorization: Bot NTg3NjI3ODA4NTIwNjY3MTQ2.XTHXQA.ZDtOsU6jj_PkxTaf6yYm2fqrmwU\r\nUser-Agent: DiscordBot (https://github.com/discordjs/discord.js, 11.5.1) Node.js/v11.15.0\r\nContent-Type: application/json\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nContent-Length: 69\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'PATCH',
+     path: '/api/v7/channels/608305993457205271',
+     _ended: false,
+     res: null,
+     aborted: false,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] {
+        host: [Array],
+        authorization: [Array],
+        'user-agent': [Array],
+        'content-type': [Array],
+        'accept-encoding': [Array] } } }
+{ Error: read ECONNRESET
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:171:27)
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read',
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] { abort: [Function], response: [Function] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     outputData: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 75,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: true,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: 'discordapp.com',
+        alpnProtocol: false,
+        authorized: true,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 98551797,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 0,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     connection:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: true,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: 'discordapp.com',
+        alpnProtocol: false,
+        authorized: true,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 98551797,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 0,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     _header:
+      'PATCH /api/v7/channels/600697803295031296 HTTP/1.1\r\nHost: discordapp.com\r\nAuthorization: Bot NTg3NjI3ODA4NTIwNjY3MTQ2.XTHXQA.ZDtOsU6jj_PkxTaf6yYm2fqrmwU\r\nUser-Agent: DiscordBot (https://github.com/discordjs/discord.js, 11.5.1) Node.js/v11.15.0\r\nContent-Type: application/json\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nContent-Length: 75\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'PATCH',
+     path: '/api/v7/channels/600697803295031296',
+     _ended: false,
+     res: null,
+     aborted: false,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] {
+        host: [Array],
+        authorization: [Array],
+        'user-agent': [Array],
+        'content-type': [Array],
+        'accept-encoding': [Array] } } }
+{ Error [ERR_UNHANDLED_ERROR]: Unhandled error. (ErrorEvent {
+  target:
+   WebSocket {
+     _events:
+      [Object: null prototype] {
+        message: [Function],
+        open: [Function],
+        error: [Function],
+        close: [Function] },
+     _eventsCount: 4,
+     _maxListeners: undefined,
+     readyState: 2,
+     protocol: '',
+     _binaryType: 'nodebuffer',
+     _closeFrameReceived: false,
+     _closeFrameSent: false,
+     _closeMessage: '',
+     _closeTimer: null,
+     _closeCode: 1006,
+     _extensions: {},
+     _receiver: null,
+     _sender: null,
+     _socket: null,
+     _isServer: false,
+     _redirects: 0,
+     url: 'wss://gateway.discord.gg/?v=6&encoding=json',
+     _req: null },
+  type: 'error',
+  message: 'read ECONNRESET',
+  error:
+   { Error: read ECONNRESET
+       at TLSWrap.onStreamRead (internal/stream_base_commons.js:171:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' } })
+    at Client.emit (events.js:182:17)
+    at WebSocketConnection.onError (/root/bot/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/root/bot/node_modules/ws/lib/event-target.js:128:16)
+    at WebSocket.emit (events.js:193:13)
+    at ClientRequest.req.on (/root/bot/node_modules/ws/lib/websocket.js:568:15)
+    at ClientRequest.emit (events.js:193:13)
+    at TLSSocket.socketErrorListener (_http_client.js:397:9)
+    at TLSSocket.emit (events.js:193:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at processTicksAndRejections (internal/process/task_queues.js:81:17)
+  context:
+   ErrorEvent {
+     target:
+      WebSocket {
+        _events: [Object],
+        _eventsCount: 4,
+        _maxListeners: undefined,
+        readyState: 2,
+        protocol: '',
+        _binaryType: 'nodebuffer',
+        _closeFrameReceived: false,
+        _closeFrameSent: false,
+        _closeMessage: '',
+        _closeTimer: null,
+        _closeCode: 1006,
+        _extensions: {},
+        _receiver: null,
+        _sender: null,
+        _socket: null,
+        _isServer: false,
+        _redirects: 0,
+        url: 'wss://gateway.discord.gg/?v=6&encoding=json',
+        _req: null },
+     type: 'error',
+     message: 'read ECONNRESET',
+     error:
+      { Error: read ECONNRESET
+          at TLSWrap.onStreamRead (internal/stream_base_commons.js:171:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' } } }
+{ Error [ERR_UNHANDLED_ERROR]: Unhandled error. (ErrorEvent {
+  target:
+   WebSocket {
+     _events:
+      [Object: null prototype] {
+        message: [Function],
+        open: [Function],
+        error: [Function],
+        close: [Function] },
+     _eventsCount: 4,
+     _maxListeners: undefined,
+     readyState: 2,
+     protocol: '',
+     _binaryType: 'nodebuffer',
+     _closeFrameReceived: false,
+     _closeFrameSent: false,
+     _closeMessage: '',
+     _closeTimer: null,
+     _closeCode: 1006,
+     _extensions: {},
+     _receiver: null,
+     _sender: null,
+     _socket: null,
+     _isServer: false,
+     _redirects: 0,
+     url: 'wss://gateway.discord.gg/?v=6&encoding=json',
+     _req: null },
+  type: 'error',
+  message: 'read ECONNRESET',
+  error:
+   { Error: read ECONNRESET
+       at TLSWrap.onStreamRead (internal/stream_base_commons.js:171:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' } })
+    at Client.emit (events.js:182:17)
+    at WebSocketConnection.onError (/root/bot/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:374:17)
+    at WebSocket.onError (/root/bot/node_modules/ws/lib/event-target.js:128:16)
+    at WebSocket.emit (events.js:193:13)
+    at ClientRequest.req.on (/root/bot/node_modules/ws/lib/websocket.js:568:15)
+    at ClientRequest.emit (events.js:193:13)
+    at TLSSocket.socketErrorListener (_http_client.js:397:9)
+    at TLSSocket.emit (events.js:193:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at processTicksAndRejections (internal/process/task_queues.js:81:17)
+  context:
+   ErrorEvent {
+     target:
+      WebSocket {
+        _events: [Object],
+        _eventsCount: 4,
+        _maxListeners: undefined,
+        readyState: 2,
+        protocol: '',
+        _binaryType: 'nodebuffer',
+        _closeFrameReceived: false,
+        _closeFrameSent: false,
+        _closeMessage: '',
+        _closeTimer: null,
+        _closeCode: 1006,
+        _extensions: {},
+        _receiver: null,
+        _sender: null,
+        _socket: null,
+        _isServer: false,
+        _redirects: 0,
+        url: 'wss://gateway.discord.gg/?v=6&encoding=json',
+        _req: null },
+     type: 'error',
+     message: 'read ECONNRESET',
+     error:
+      { Error: read ECONNRESET
+          at TLSWrap.onStreamRead (internal/stream_base_commons.js:171:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' } } }
+{ Error: read ECONNRESET
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:171:27)
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read',
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] { abort: [Function], response: [Function] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     outputData: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 75,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 466090,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 430,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     connection:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 466090,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 430,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     _header:
+      'PATCH /api/v7/channels/608305680746545174 HTTP/1.1\r\nHost: discordapp.com\r\nAuthorization: Bot NTg3NjI3ODA4NTIwNjY3MTQ2.XTHXQA.ZDtOsU6jj_PkxTaf6yYm2fqrmwU\r\nUser-Agent: DiscordBot (https://github.com/discordjs/discord.js, 11.5.1) Node.js/v11.15.0\r\nContent-Type: application/json\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nContent-Length: 75\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'PATCH',
+     path: '/api/v7/channels/608305680746545174',
+     _ended: false,
+     res: null,
+     aborted: false,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] {
+        host: [Array],
+        authorization: [Array],
+        'user-agent': [Array],
+        'content-type': [Array],
+        'accept-encoding': [Array] } } }
+{ Error: Client network socket disconnected before secure TLS connection was established
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1284:19)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:198:15)
+    at endReadableNT (_stream_readable.js:1139:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:17)
+  code: 'ECONNRESET',
+  path: null,
+  host: 'discordapp.com',
+  port: 443,
+  localAddress: undefined,
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] { abort: [Function], response: [Function] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     outputData: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 67,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        write: [Function: writeAfterFIN],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 466095,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 422,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 422,
+        [Symbol(connect-options)]: [Object] },
+     connection:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        write: [Function: writeAfterFIN],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 466095,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 422,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 422,
+        [Symbol(connect-options)]: [Object] },
+     _header:
+      'PATCH /api/v7/channels/608306019357032490 HTTP/1.1\r\nHost: discordapp.com\r\nAuthorization: Bot NTg3NjI3ODA4NTIwNjY3MTQ2.XTHXQA.ZDtOsU6jj_PkxTaf6yYm2fqrmwU\r\nUser-Agent: DiscordBot (https://github.com/discordjs/discord.js, 11.5.1) Node.js/v11.15.0\r\nContent-Type: application/json\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nContent-Length: 67\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'PATCH',
+     path: '/api/v7/channels/608306019357032490',
+     _ended: false,
+     res: null,
+     aborted: false,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] {
+        host: [Array],
+        authorization: [Array],
+        'user-agent': [Array],
+        'content-type': [Array],
+        'accept-encoding': [Array] } } }
+{ Error: Client network socket disconnected before secure TLS connection was established
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1284:19)
+    at Object.onceWrapper (events.js:281:20)
+    at TLSSocket.emit (events.js:198:15)
+    at endReadableNT (_stream_readable.js:1139:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:17)
+  code: 'ECONNRESET',
+  path: null,
+  host: 'discordapp.com',
+  port: 443,
+  localAddress: undefined,
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] { abort: [Function], response: [Function] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     outputData: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 75,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        write: [Function: writeAfterFIN],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 468693,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 430,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     connection:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        write: [Function: writeAfterFIN],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 468693,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 430,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 430,
+        [Symbol(connect-options)]: [Object] },
+     _header:
+      'PATCH /api/v7/channels/600697803295031296 HTTP/1.1\r\nHost: discordapp.com\r\nAuthorization: Bot NTg3NjI3ODA4NTIwNjY3MTQ2.XTHXQA.ZDtOsU6jj_PkxTaf6yYm2fqrmwU\r\nUser-Agent: DiscordBot (https://github.com/discordjs/discord.js, 11.5.1) Node.js/v11.15.0\r\nContent-Type: application/json\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nContent-Length: 75\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'PATCH',
+     path: '/api/v7/channels/600697803295031296',
+     _ended: false,
+     res: null,
+     aborted: false,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] {
+        host: [Array],
+        authorization: [Array],
+        'user-agent': [Array],
+        'content-type': [Array],
+        'accept-encoding': [Array] } } }
+{ Error: read ECONNRESET
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:171:27)
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read',
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] { abort: [Function], response: [Function] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     outputData: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: true,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 67,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 483013,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 422,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 422,
+        [Symbol(connect-options)]: [Object] },
+     connection:
+      TLSSocket {
+        _tlsOptions: [Object],
+        _secureEstablished: false,
+        _securePending: false,
+        _newSessionPending: false,
+        _controlReleased: true,
+        _SNICallback: null,
+        servername: null,
+        alpnProtocol: null,
+        authorized: false,
+        authorizationError: null,
+        encrypted: true,
+        _events: [Object],
+        _eventsCount: 8,
+        connecting: false,
+        _hadError: true,
+        _parent: null,
+        _host: 'discordapp.com',
+        _readableState: [ReadableState],
+        readable: false,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: undefined,
+        _server: null,
+        ssl: null,
+        _requestCert: true,
+        _rejectUnauthorized: true,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(res)]: [TLSWrap],
+        [Symbol(asyncId)]: 483013,
+        [Symbol(kHandle)]: null,
+        [Symbol(lastWriteQueueSize)]: 422,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 422,
+        [Symbol(connect-options)]: [Object] },
+     _header:
+      'PATCH /api/v7/channels/608306019357032490 HTTP/1.1\r\nHost: discordapp.com\r\nAuthorization: Bot NTg3NjI3ODA4NTIwNjY3MTQ2.XTHXQA.ZDtOsU6jj_PkxTaf6yYm2fqrmwU\r\nUser-Agent: DiscordBot (https://github.com/discordjs/discord.js, 11.5.1) Node.js/v11.15.0\r\nContent-Type: application/json\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nContent-Length: 67\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'PATCH',
+     path: '/api/v7/channels/608306019357032490',
+     _ended: false,
+     res: null,
+     aborted: false,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] {
+        host: [Array],
+        authorization: [Array],
+        'user-agent': [Array],
+        'content-type': [Array],
+        'accept-encoding': [Array] } } }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }
+{ [Error: ENOENT: no such file or directory, scandir './commands/']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: './commands/' }

@@ -1,0 +1,24 @@
+{
+  "name": "coding-stuff",
+  "version": "1.0.0",
+  "description": "Coding Stuff npm things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron Apps/ElectronJS/Dist/index.js"
+  },
+  "author": "chaos",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.6.8",
+    "dblapi.js": "^2.3.0",
+    "discord.js": "^11.5.1",
+    "electron": "^5.0.7",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.6.5",
+    "node-fetch": "^2.6.0"
+  },
+  "keywords": [
+    "hyper"
+  ]
+}
